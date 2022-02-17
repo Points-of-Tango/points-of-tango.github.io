@@ -1,4 +1,6 @@
-layout: page title: "Events" permalink: https://points-of-tango.github.io/events
+layout: page
+title: "Events"
+permalink: https://points-of-tango.github.io/events
 
 # Events
 
