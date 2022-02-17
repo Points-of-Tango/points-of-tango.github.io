@@ -1,3 +1,5 @@
+layout: page title: "Events" permalink: https://points-of-tango.github.io/events
+
 # Events
 
 One of the main purposes of Points of Tango is to list as many events as possible, to offer the social dancer the many options they have. 
