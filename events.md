@@ -1,15 +1,17 @@
 layout: page
-title: "Events"
+title: Event Module
 permalink: https://points-of-tango.github.io/events
 
-One of the main purposes of Points of Tango is to list as many events as possible, to offer the social dancer the many options they have. 
-An event can be listed under an international section (festival, marathons, vacations, encuentros, championships) or a local community section (milongas, classes, practicas, private classes, long weekend events).
-The concept of event is the same and both international and local can have as much information.
-What does the events module offer to the Organiser.
 
 # Points of Tango
-Vision - 
+Vision - The purpose of this project is to archieve an unique platform, accessible through mobile and web, where every tango member on their role as organiser, shope owner, professional or social dancer can be conected to the community in the best way possible.
+The concept of event is the same and both international and local can have as much information.
 Mision - Gather Event Organisers, Shop Owners, Djs, Professional Dancers, Teachers, Performers, Musician, Orchestras; join them all in an unique tango platform where social dancers can find anything they need. 
+
+# The 
+What does the events module offer to the Organiser.
+list as many events as possible, to offer the social dancer the many options they have. 
+An event can be listed under an international section (festival, marathons, vacations, encuentros, championships) or a local community section (milongas, classes, practicas, private classes, long weekend events).
 
 # Event Features for Dancers/Organisers/Artists/Stores,
 
