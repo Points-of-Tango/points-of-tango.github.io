@@ -113,6 +113,7 @@ There is no limit of accomodations to list per event. It allows to list contact 
 
 ### 8. Registration / Booking process
 
+
 - Registrations
 - Applications
 - Bookins
