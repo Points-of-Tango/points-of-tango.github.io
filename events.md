@@ -2,20 +2,36 @@ layout: page
 title: Event Module
 permalink: https://points-of-tango.github.io/events
 
+## Points of Tango
+### Vision
+The purpose of this project is to archieve an unique platform, accessible through mobile and web, where every tango member on their role as organiser, shope owner, professional or social dancer can be conected to the community in the best way possible.
+### Mision
+Gather Event Organisers, Shop Owners, Djs, Professional Dancers, Teachers, Performers, Musician, Orchestras; join them all in an unique tango platform where social dancers can find anything they need. 
 
-# Points of Tango
-Vision - The purpose of this project is to archieve an unique platform, accessible through mobile and web, where every tango member on their role as organiser, shope owner, professional or social dancer can be conected to the community in the best way possible.
-The concept of event is the same and both international and local can have as much information.
-Mision - Gather Event Organisers, Shop Owners, Djs, Professional Dancers, Teachers, Performers, Musician, Orchestras; join them all in an unique tango platform where social dancers can find anything they need. 
 
-# The 
-What does the events module offer to the Organiser.
-list as many events as possible, to offer the social dancer the many options they have. 
-An event can be listed under an international section (festival, marathons, vacations, encuentros, championships) or a local community section (milongas, classes, practicas, private classes, long weekend events).
+# Event Features (for Dancers/Organisers/Artists/Stores)
 
-# Event Features for Dancers/Organisers/Artists/Stores,
+What the event module offers to the Organiser, Stores, Artists and Social Dancers is explained bellow point by point with the main features. Contact us in order to know more details and book a Demo if necessry to know better the extension of this application.
 
-## 1. Main Event Details information.
+Events at Points of Tango are defined as any tango event which has a start and end time either on a specific date or on a limited consecutive days (the whole weekend, a full week or even a few days longer). Events are classified by type and their could be: Milongas; Group and Private Classes; Practicas; Championships; Marathons; Festivals; Encuentros; Meetings; Retreats; Vacations.
+
+The Events Module on Points of Tango supports 2 different scopes:
+
+- Local Community Events: Day to day events, what to expect to happen on regular basis or orientated for the local community and wherabouts, meaning all Milongas, Classes, Practicas and local/national competitions or festivals. 
+
+- International Events: Events which normally happens less regularly, like once a year and its target is to catch the interests of dancers living abroad alongside the local community. This section hots big international festivals, championships, marathongs, encuentros, retreats, vacations.
+
+It is possible from the application to list the internation events and each local community by simple selecting the scope from anywhere in the world.
+
+## Listing is totally FREE
+Our goal from Points of Tango is to host as many events as possible to be able to offer social dancers all the options available, no to restrict to those organisers who would pay for the service. This will only bring just a narrow option to the dancers.
+If an event is not yet loaded on the application, is simply because the organiser has not uploaded it yet, but there is any restriction to do so.
+
+## How and Which information can be added to an event.
+
+There is no distiction on International or Local Events on the data to add, both scopes can add exactly the same amount of information, this is described in the next points:
+
+### 1. Main Event Details information.
 
 #### 1.A Pictures
 
