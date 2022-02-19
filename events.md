@@ -7,64 +7,78 @@ An event can be listed under an international section (festival, marathons, vaca
 The concept of event is the same and both international and local can have as much information.
 What does the events module offer to the Organiser.
 
+# Points of Tango
+Vision - 
+Mision - Gather Event Organisers, Shop Owners, Djs, Professional Dancers, Teachers, Performers, Musician, Orchestras; join them all in an unique tango platform where social dancers can find anything they need. 
+
 # Event Features for Dancers/Organisers/Artists/Stores,
 
-##1. Main Event Details information.
+## 1. Main Event Details information.
 
-####1.A Pictures
+#### 1.A Pictures
 
   *Logo or Profile Picture*
   *Cover Picture*
   *Backgroun Picture*
   *Keywords*
 
-####1.B Performers & Teachers Line up
+#### 1.B Performers & Teachers Line up
 
-####1.C DJs Line up
+#### 1.C DJs Line up
 
-####1.D Información de contacto del evento
+#### 1.D Información de contacto del evento
   - Website
   - Email
   - Telefono
   - Location (map)
   
  
-####1.E Full Programme of Activities
+#### 1.E Full Programme of Activities
 
-####1.F Add More Organisers
+#### 1.F Add More Organisers
 
-####1.G Add Videos to Events
+#### 1.G Add Videos to Events
 
 
-##2. Discussions
+## 2. Discussions
 
-##3. Covid Details
+## 3. Covid Details
 
-##4. Accommodations
+## 4. Accommodations
 
-##5. Show Room
+## 5. Show Room
 
-##6. Request Partners for classes/workshops
+## 6. Request Partners for classes/workshops
 
-##7. Registration / Booking process
+## 7. Registration / Booking process
 
-####7.A Manage Registrations
+- Registrations
+- Applications
+- Bookins
 
-####7.B Manage Promoters
+#### 7.A Manage Registrations
 
-####7.C Add Promoters / Vouchers
+##### Dates 
 
-####7.D Add Staff
+#### 7.G Registration forms
 
-####7.E Create Packs
+#### 7.E Staff
 
-####7.F Add Registration questions
+#### 7.C Add Promoters / Vouchers
 
-##8. Expose on Pages from different artists.
+#### 7.B Manage Promoters
 
-##9. WebPage version, SEO included.
+#### 7.F Event Packs
 
-##10. Personalized Domains for Web
+#### 7.D Payment Methods
+
+## 8. Expose on Pages from different artists.
+
+## 9. WebPage version
+
+### 9.1 Personalized Domains
+
+### 9.2 SEO included.
 
 
 # Monetization
