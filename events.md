@@ -1,32 +1,46 @@
-# Event Module
+# Events Module
 
-## Points of Tango
-### Vision
-The purpose of this project is to archieve an unique platform, accessible through mobile and web, where every tango member on their role as organiser, shope owner, professional or social dancer can be conected to the community in the best way possible.
-### Mision
-Gather Event Organisers, Shop Owners, Djs, Professional Dancers, Teachers, Performers, Musician, Orchestras; join them all in an unique tango platform where social dancers can find anything they need. 
+### Audience and Scope
+This document talks about Points of Tango platform, general Vision and focuses on the Events Module dedicated for organisers and teachers.
+You must read if you are a tango teacher who host classes for any size (5 to to 50+ people) anywhere in the world.
+You must read if you are an organiser of local events, no matters the size/capacity of the event nor the where the event is localted.
+You must read if you are an organiser of an international event, no matters the size/capacity of the event nor the where the event is localted.
+
+## Points of Tango: General Vision
+The purpose of this project is to gather on an unique platform, accessible through mobile and web, everything related to the tango comunity: International Events; Events on Local communities; Tango Stores; DJs, Professional Teachers and Performers, musicians, orchestras. All across the world, joined on a single platform for better communication, integration, accessibility and simplicity for everyone, social dancers, organisers, shop owners and professional artists.
+
+## Events: Problem and Points of Tango Mision on this particular module
+Information about events are spread all over the Internet, across countless webpages and platforms. We can mention Facebook as the main one, where organisers rely on list their facebook events or groups to reach out the big audience. However, this platform is not well organised, not tango specific (adding too much noice with unnecessary information), and people are moving away from it reaching other (less toxic) applications.
+It is not possible to find a complete and up to date website which host all events there, internationals and local communities, even less a mobile application which makes it all more interactive and simpler. Just few local comminities have (among their own many local websites options) one platform where people rely the most, examples are:
+- hoy-milonga.com - Buenos Aires
+- londonmilongas.co.uk - London
+- tango-argentin.fr - Paris (also used in other french regions)
+
+Anyway, even if these websites had the latest information, each community creates their own system/platform (which beside they are not integrated with other tango sectors, like Artists, Stores and social dancers) making it hard for social dancers to know which platform works best for each city. Points of Tango aims to have them all in one unique platform, where social dancers only should ask where they want to list events from, International or selecting any Country and Region.
+
+Points of Tango offers the platform, contacts organisers, stores and artists to inform them about this revolutionary opportunity. Now, everyone has to do one's bit, uploading the information to make this possible so everyone can enjoy the benefits.
 
 
-# Event Features (for Dancers/Organisers/Artists/Stores)
+## Events Module Overview
 
-What the event module offers to the Organiser, Stores, Artists and Social Dancers is explained bellow point by point with the main features. Contact us in order to know more details and book a Demo if necessry to know better the extension of this application.
+What the event module offers to the Organiser, Stores, Artists and Social Dancers is explained here, point by point detailing the main features. You can contact us in order to know further/specific details but also to request a Demo if necessary, we are more than happy to let you know better about the extension of this application.
 
-Events at Points of Tango are defined as any tango event which has a start and end time either on a specific date or on a limited consecutive days (the whole weekend, a full week or even a few days longer). Events are classified by type and their could be: Milongas; Group and Private Classes; Practicas; Championships; Marathons; Festivals; Encuentros; Meetings; Retreats; Vacations.
+*Note: Events at Points of Tango are defined as any tango event which has a start and end time either on a specific date or on a limited consecutive days (a whole weekend or full week, for instance). Events are classified by type: Milongas; Group or Private Classes; Practicas; Championships; Marathons; Festivals; Encuentros; Meetings; Retreats; Vacations.*
 
-The Events Module on Points of Tango supports 2 different scopes:
+The Events Module on Points of Tango supports 2 scopes:
 
-- Local Community Events: Day to day events, what to expect to happen on regular basis or orientated for the local community and wherabouts, meaning all Milongas, Classes, Practicas and local/national competitions or festivals. 
+- Local Community Events: Day to day events, what to expect to happen on regular basis or no regular but orientated for the local community. It means, we are able to list all Milongas, Classes, Practicas and local/national competitions or festivals. 
 
-- International Events: Events which normally happens less regularly, like once a year and its target is to catch the interests of dancers living abroad alongside the local community. This section hots big international festivals, championships, marathongs, encuentros, retreats, vacations.
+- International Events: Events which normally happen less regularly, like once a year and its target is to catch the interests of dancers living abroad alongside the local community. This section hosts big international festivals, championships, marathongs, encuentros, retreats and vacations.
 
-It is possible from the application to list the internation events and each local community by simple selecting the scope from anywhere in the world.
 
-## Listing is totally FREE
-Our goal from Points of Tango is to host as many events as possible to be able to offer social dancers all the options available, no to restrict to those organisers who would pay for the service. This will only bring just a narrow option to the dancers.
-If an event is not yet loaded on the application, is simply because the organiser has not uploaded it yet, but there is any restriction to do so.
+## Event Listing is totally FREE
+
+Points of Tango's goal is to host as many events as possible to be able to offer social dancers all the options available, with no restriction or reduced to those organisers who would pay for the service. Paid listings will only bring narrowed options to the dancers, Points of Tango will NEVER charge the listing of any event. Therefore, if an event is not yet uploaded on the application, it is simply because the organiser has not uploaded it yet.
 
 ## How and Which information can be added to an event.
 
+To upload information to Points of Tango platform, 
 There is no distiction on International or Local Events on the data to add, both scopes can add exactly the same amount of information, this is described in the next points:
 
 ### 1. Main Event Details information.
@@ -80,13 +94,24 @@ Organisers can open different topics for users to post on the right channel depe
 
 Due to the current pandemic, different events request specific Covid conditions to be followed by the social dancers. Possible to determine: whether the dancer needs to have a full vaccination certificate or any certification of a negative test; if masks were mandatory; change partners rules; etc.
 
-## 4. Accommodations
-
 ## 5. Show Room
 
-## 6. Request Partners for classes/workshops
+Regularly events invite tango stores to expose their products to the attendants. It is possible to list the stores which will be having a show room at the event, then dancers could go through each catalogue of this listed stores and look for products being able to buy boforehands and collect the products on the event.
 
-## 7. Registration / Booking process
+## 6. Accommodations
+
+It is possible to list different accomodations for each event, this could be:
+- Recommended acommodations nearby the event location.
+- List specific deals the event organisers have made with hotels
+- Event runs on a venue where attendants will stay over, so it specifies the amenities, pictures.
+
+For each acommodation it is possible to show the list features/amenities, prices and a gallery of pictures.
+
+## 7. Request Partners for classes/workshops
+
+When the event host classes/workshops, attendants often ask the organisers for partners when they would attend without one. The platform, enabled by organisers, give the option to the dancers to request for a partner for the classes they need. 
+
+## 8. Registration / Booking process
 
 - Registrations
 - Applications
@@ -116,6 +141,7 @@ Due to the current pandemic, different events request specific Covid conditions 
 
 ### 9.2 SEO included.
 
+# UKATA Members <-> Points of Tango
 
 # Monetization
 
