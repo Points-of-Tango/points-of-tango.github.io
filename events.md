@@ -1,6 +1,4 @@
-layout: page
-title: Event Module
-permalink: https://points-of-tango.github.io/events
+# Event Module
 
 ## Points of Tango
 ### Vision
