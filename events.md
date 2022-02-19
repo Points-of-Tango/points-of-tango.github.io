@@ -40,8 +40,9 @@ Points of Tango's goal is to host as many events as possible to be able to offer
 
 ## How and Which information can be added to an event.
 
-To upload information to Points of Tango platform, 
-There is no distiction on International or Local Events on the data to add, both scopes can add exactly the same amount of information, this is described in the next points:
+To upload information to Points of Tango platform, it is only necessary to have an account on the platform for at least one of the organisers of the event (to create the account, it is possible via web or downloading the application). This account should have marked 'I am also an Organisers' on the profile to be able to create events. With the account, sign in to our web platform and create your events: https://points-of-tango.web.app/
+
+Listed below all different type of information which can be added to the event. There is no distiction on International or Local Events respecting on the data to be added, both scopes can add exactly the same amount of information, this is described in the next points:
 
 ### 1. Main Event Details information.
 
@@ -66,90 +67,87 @@ It is possible to add a galery of videos to the events, to promote the event, ac
 
 #### 1.E DJs Line up
 
-If the event hosts 1 or more DJs, it is possible to add a Line Up of DJs for the event.
+If the event hosts 1 or more DJs, it is possible to add a Line Up of these DJs. They can be added manually or searchable if DJ has an account on the platfom. Last option, the event will Tag the DJ to the event, and the DJ may then add the event on their personal DJ page on the platform.
 
 #### 1.F Performers & Teachers Line up
 
-Similarly to above point, tt is possible to add a Line Up of Performers, Musicians, Teachers, Orchestras for the event. Tell the people who is involved!
+Similarly to above point, tt is possible to add a Line Up of Performers, Musicians, Teachers, Orchestras for the event and Tag them so the event will be listed on each artist personal page on the platform.
 
 ### 2. Full Programme of Activities
 
-One of the features which enriches the event the most is to add the full programme to tell the dancer all details about your event. The programme is shown day by day with all days activities. Activities can be anything: Registration/Check-in process; City Tours; Classes; Online activities; Workshops; Milongas; Competition; Massage sessions; and any type of activity the event hosts.
+One of the features which enriches the event the most is to add the full programme, tell the social dancer all details about your event. The programme is shown day by day with all daily activities. Activities can be anything: Registration/Check-in process; City Tours; Classes; Online activities; Workshops; Milongas; Competition; Massage sessions; and any kind of activity offered at the event.
 
 On each activity it is possibe to add:
- - DJs
- - Teachers
- - Performers
- - Online Rooms (for online events)
- - Location to find the specific activity as it can differe from the main event Location.
- - Booking details, as price, currency, capacity.
- - Video Gallery, to promote the particular activity, from City videos to promote a City tour or tango performances to promote teachers or shows.
+ - DJs (Tag them when possible)
+ - Teachers (Tag them when possible)
+ - Performers (Tag them when possible)
+ - Virtual Meeting Rooms (for online activities)
+ - Location to find the specific activity as it can be different from the main event Location.
+ - Booking details, such as price, currency and capacity of the activity.
+ - Video Gallery, to promote the particular activity, it could be City Sightseen videos when adding a City tour activity or a tango performance video when adding classes or performances to expose the artists.
 
-## 3. Discussions
+### 3. Request Partners for classes/workshops
 
-Space where users can make questions/suggestions. Each post is public and owned by the user where organises act as moderators and they can remove offensive posts.
-Organisers can open different topics for users to post on the right channel depending on their needs. ***Max 3 topics, which can be extended under the Adds On seccion***
+When the event host classes/workshops, very often attendants ask organisers to be partnered on a particular class. When organisers enable this option, Points of Tango gives the option to the dancers to request for a partner on a particular class/workshop. Then the organiser, per each of the classes, matches the requests and notify the dancers. This is a useful feature as it is a tool for organisers to manage all this request in a simple way.
 
-## 4. Covid Details
+### 4. Discussions
 
-Due to the current pandemic, different events request specific Covid conditions to be followed by the social dancers. Possible to determine: whether the dancer needs to have a full vaccination certificate or any certification of a negative test; if masks were mandatory; change partners rules; etc.
+Each event has a space where users can make questions/suggestions. Each post is public and owned by the user (similr to a posts on an particular Facebook event); Organises can add admin messages, which are shown differently and triggers a notification to users involved on the conversation but also they act as moderators to have rights to remove any offensive post.
+Organisers can create different topics for users to post on the right channel depending on their needs, for instance Accommodation arragements, Taxis shares, Restaurant recommendations, etc. ***Max 3 topics per event, which can be extended under the Adds On seccion***
 
-## 5. Show Room
+### 5. Covid Details
 
-Regularly events invite tango stores to expose their products to the attendants. It is possible to list the stores which will be having a show room at the event, then dancers could go through each catalogue of this listed stores and look for products being able to buy boforehands and collect the products on the event.
+Due to the current pandemic, different events require specific Covid conditions to be followed by the social dancers who attend. Possible to request whether the dancer needs to have a full vaccination certificate or any proof of a negative test; also tell attendants if masks are mandatory or indicate the change partners policy; etc.
 
-## 6. Accommodations
+### 6. Show Room
 
-It is possible to list different accomodations for each event, this could be:
-- Recommended acommodations nearby the event location.
-- List specific deals the event organisers have made with hotels
-- Event runs on a venue where attendants will stay over, so it specifies the amenities, pictures.
+Regularly events host Show Rooms inviting tango stores to expose their products to the attendants. From Points of Tango events it is possible to list the stores which will be having a show room at the event, therefore dancers could go through this list and access to each particular store catalogue. This brings the opportunity to the dancers to pick and collect products at the event, expose the catalogue of each store and might bring interst to a social dancer to attend the event just because a store will be present there.
 
-For each acommodation it is possible to show the list features/amenities, prices and a gallery of pictures.
+### 7. Accommodations
 
-## 7. Request Partners for classes/workshops
+Events can run over a few consecutive days, therefore organisers regularly offer accommodation options to social dancers to stay over.
+- Simply recommended acommodations nearby the event location.
+- Events hosted on a Hotel Hall, this option allows organisers to provide specific details about the accommodation facilities.
 
-When the event host classes/workshops, attendants often ask the organisers for partners when they would attend without one. The platform, enabled by organisers, give the option to the dancers to request for a partner for the classes they need. 
+There is no limit of accomodations to list per event. It allows to list contact details and location for each accommodation, their facilities, list of prices and a gallery of pictures.
 
-## 8. Registration / Booking process
+### 8. Registration / Booking process
 
 - Registrations
 - Applications
 - Bookins
 
-#### 7.A Manage Registrations
+#### 8.A Manage Registrations
 
-##### Dates 
+#### 8.B Dates 
 
-#### 7.G Registration forms
+#### 8.G Registration forms
 
-#### 7.E Staff
+#### 8.C Add Promoters / Vouchers
 
-#### 7.C Add Promoters / Vouchers
+#### 8.B Manage Promoters
 
-#### 7.B Manage Promoters
+#### 8.F Event Packs
 
-#### 7.F Event Packs
+#### 8.D Payment Methods
 
-#### 7.D Payment Methods
+### 9. Expose on Pages from different artists.
 
-## 8. Expose on Pages from different artists.
+### 10. WebPage version
 
-## 9. WebPage version
+#### 10.1 Personalized Domains
 
-### 9.1 Personalized Domains
+#### 10.2 SEO included.
 
-### 9.2 SEO included.
+## UKATA Members <-> Points of Tango
 
-# UKATA Members <-> Points of Tango
-
-# Monetization
+## Monetization
 
 At the moment Points of Tango is not monetizating any of it features, however most of them, related to list and populate the event with as much information possible is and will be always free.
 This are the points which will be considered to monetize in future (at least towards the end of the year.
 
-##1. Sponsored Events
-##2. Notifications and Email targeted marketing service
-##3. Registration/Booking service
-##4. Add ONs services
+### 1. Sponsored Events
+### 2. Notifications and Email targeted marketing service
+### 3. Registration/Booking service
+### 4. Add ONs services
  (adquare extra keywords, include more organisers, increase the amount of discussion topics, among others)
