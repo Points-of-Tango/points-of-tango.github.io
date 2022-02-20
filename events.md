@@ -6,18 +6,24 @@ You must read if you are a tango teacher who host classes for any size (5 to to 
 You must read if you are an organiser of local events, no matters the size/capacity of the event nor the where the event is localted.
 You must read if you are an organiser of an international event, no matters the size/capacity of the event nor the where the event is localted.
 
-## Points of Tango: General Vision
+## Points of Tango: General Vision | The Worldwide Tango Marketplace
 The purpose of this project is to gather on an unique platform, accessible through mobile and web, everything related to the tango comunity: International Events; Events on Local communities; Tango Stores; DJs, Professional Teachers and Performers, musicians, orchestras. All across the world, joined on a single platform for better communication, integration, accessibility and simplicity for everyone, social dancers, organisers, shop owners and professional artists.
 
-## Events: Problem and Points of Tango Mision on this particular module
+## Events: Points of Tango Mision on this particular module
+### Problem 1: Incomplete and out of date information all over the Internet
 Information about events are spread all over the Internet, across countless webpages and platforms. We can mention Facebook as the main one, where organisers rely on list their facebook events or groups to reach out the big audience. However, this platform is not well organised, not tango specific (adding too much noice with unnecessary information), and people are moving away from it reaching other (less toxic) applications.
 It is not possible to find a complete and up to date website which host all events there, internationals and local communities, even less a mobile application which makes it all more interactive and simpler. Just few local comminities have (among their own many local websites options) one platform where people rely the most, examples are:
 - hoy-milonga.com - Buenos Aires
 - londonmilongas.co.uk - London
 - tango-argentin.fr - Paris (also used in other french regions)
 
-Anyway, even if these websites had the latest information, each community creates their own system/platform (which beside they are not integrated with other tango sectors, like Artists, Stores and social dancers) making it hard for social dancers to know which platform works best for each city. Points of Tango aims to have them all in one unique platform, where social dancers only should ask where they want to list events from, International or selecting any Country and Region.
+Furthermore, even if these websites had the latest information, each community creates their own system/platform (which beside they are not integrated with other tango sectors, like Artists, Stores and social dancers) making it hard for social dancers to know which platform works best for each city. Points of Tango aims to have them all in one unique platform, where social dancers only should ask where they want to list events from, International or selecting any Country and Region.
 
+### Problem 2: Too many registration processes and way of payment.
+Each event has its particular registration proceses, specially international events. Using different platforms, accessing through different websites which social dancers the need to spend time and effort finding out where to find it, how and what to fill up on those processes.
+On the payment side, there is no much different, each tango event, including local communities have their own way of payment, some fees are expensive and do not work well in every country. Different payment procedures to follow, which also makes it hard for organisers to track and keep all this information organised.
+
+### Solution: Unique platfrom to find all events which unifies and simplifies registration processes, bookings and payments.
 Points of Tango offers the platform, contacts organisers, stores and artists to inform them about this revolutionary opportunity. Now, everyone has to do one's bit, uploading the information to make this possible so everyone can enjoy the benefits.
 
 
@@ -114,33 +120,57 @@ There is no limit of accomodations to list per event. It allows to list contact 
 ### 8. Registration / Booking process
 
 
-- Registrations
-- Applications
-- Bookins
+- Registrations: The registration is personal, done from a Social Dancer account. They register, complete a form when requested and book the activities they want to attend. This process is used on Festivals and Championships, where there is not approval needed by the organisers.
+- Applications: The application is personal, done from a Social Dancer account. They apply, complete a form when requested. Once the organiser approves the application, the dancer can book the activities they wish to attend. This process is used on Marathon or small Festivals, where organisers have a limited capacity.
+- Bookins: A social dancer directly books activities, no registration needed.
 
-#### 8.A Manage Registrations
+#### 8.A Dates 
 
-#### 8.B Dates 
+- Registration Open Date: The organisers can specify the date and time when registrations/applications to the event will be available.
+- Booking Date: The organisers can specify the date and time when bookings to activities will be available.
 
-#### 8.G Registration forms
+#### 8.B Registration forms
 
-#### 8.C Add Promoters / Vouchers
+If it is needed for the event from the organisers, for any tipe of registration process (Registration, Application or Booking) it is possible to add a registration form. At the moment the users registers or applyes to an event, the form will be presented to complete. In case of bookings, this form will be show before compliting the payment to the activity booked.
+This form is dynamic and the organisers can add as meny questions as needed, questions have different types to simplify answers from dancers and can be mark as mandatory and/or editables (meaning the answer can be edited after the registration process)
 
-#### 8.B Manage Promoters
+#### 8.C Event Packs
 
-#### 8.F Event Packs
+User can book activities for the events, but it is possible to create bundles for dancers to book them and pay less. For instance, on a local milonga, there could be a price for the pre-milonga class and a price for the milonga, but most likely there will be a reduce price (bundle) if the dancer books the 2 activities, which may have different pricing by booking them on a pack.
 
-#### 8.D Payment Methods
+#### 8.D Add Promoters / Vouchers
 
-### 9. Expose on Pages from different artists.
+It is usual that events, specially big ones, have promoters on different cityes or countries. By adding promoters, it is possible to attach discount vauchers, depending on the organisers need. This discount vauchers can be either a fix amount of money or a percentage of the total of the order.
 
-### 10. WebPage version
+#### 8.E Manage Promoters / Discount Vouchers
 
-#### 10.1 Personalized Domains
+#### 8.F Payment Methods
 
-#### 10.2 SEO included.
+#### 8.G Manage Registrations
+
+#### 8.J Stats Dashboard
+
+## Expose from different artists pages.
+
+As mentioned before, when organisers complete the the full programme, every DJ, Performer, Teacher, Orchestra or Musician tagged, can add the event on their particular page, which will trigger a notification to all their followers. This way, by tagging all artists, followers of all these artists will be notified providing more expusore to the event.
+
+## Events: WebPage version
+
+Each event added on the platform will be listed on Points of Tango application, but also a web page is generated dinamically following a template. A web version of the event which can be shared as an URL link. On this web version, user can go throught same data they would see on the mobile app: DJs and Artist lines up; Details; Full Programme; Accommodations; but also the option to register and pay for their bookins. This allows users not necessarely to have installed the mobile application in order to interact with the platform.
+Example of a web template is as follow: 
+
+### 10.1 Personalized Domains
+
+As you could see in the link above, event code and extra values are shown on the URL, this can make the link long and hard to remember. Therefore we have provide the option to add domains to the events; easier way to be remembered and also a cleaner and more descriptive link.
+Example following the link above:
+
+### 10.2 SEO included.
+
+When the link to the event is shared on social media, it will show the name of the event, the description and the cover picture.
 
 ## UKATA Members <-> Points of Tango
+
+Events from Organisers member of UKATA (United Kingdom Argentine Tango Association) present the UKATA logo on the event to recognise the membership, but most importantly, this events are also listed under the ukata website where it is also possible to visualize them on a map. [UKATA Tango Map | https://argentinetango.co.uk/uk-tango-events-map/]
 
 ## Monetization
 
