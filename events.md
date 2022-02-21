@@ -119,7 +119,6 @@ There is no limit of accomodations to list per event. It allows to list contact 
 
 ### 8. Registration / Booking process
 
-
 - Registrations: The registration is personal, done from a Social Dancer account. They register, complete a form when requested and book the activities they want to attend. This process is used on Festivals and Championships, where there is not approval needed by the organisers.
 - Applications: The application is personal, done from a Social Dancer account. They apply, complete a form when requested. Once the organiser approves the application, the dancer can book the activities they wish to attend. This process is used on Marathon or small Festivals, where organisers have a limited capacity.
 - Bookins: A social dancer directly books activities, no registration needed.
@@ -136,19 +135,50 @@ This form is dynamic and the organisers can add as meny questions as needed, que
 
 #### 8.C Event Packs
 
-User can book activities for the events, but it is possible to create bundles for dancers to book them and pay less. For instance, on a local milonga, there could be a price for the pre-milonga class and a price for the milonga, but most likely there will be a reduce price (bundle) if the dancer books the 2 activities, which may have different pricing by booking them on a pack.
+User can book activities separatelly, but it is possible to create bundles for dancers to book and pay for a package-price. Bundles can have as many activities as wanted included but also activities to claim. For instance, 2 workshops to pick up out of 5 available. Dancer buys the pack, chose the workshops later.
 
 #### 8.D Add Promoters / Vouchers
 
-It is usual that events, specially big ones, have promoters on different cityes or countries. By adding promoters, it is possible to attach discount vauchers, depending on the organisers need. This discount vauchers can be either a fix amount of money or a percentage of the total of the order.
+It is usual that events have promoters on different cityes or countries, specially international events. By adding promoters, it is possible to attach discount vauchers, depending on the organisers need. This discount vauchers can be either a fix amount of money or a percentage of the total of the order.
 
-#### 8.E Manage Promoters / Discount Vouchers
+#### 8.E Payment Methods
 
-#### 8.F Payment Methods
+At the moment it is possible to set up 4 payments methods:
+- Bank Transfers: Organisers can add all bank account details to share with social dancers to make the deposits. *Transfers are not yet made through the platform, we are looking at different integrations and finding the best deals for organisers. It will be added in the next few months*
+- Integration with payment gateways, the dancer would pay directly to the organisers account, therefore the event would have to set up an account on the gateway choosen before start taking payments. Options availables so far, some are restrictet by Country.
+  - Stripe: Largely used in Europe and North America.
+  - PayPal: Used across the world with just a few exceptions, like India
+  - MercadoPago: Largely used in Southamerica.
 
-#### 8.G Manage Registrations
+#### 8.G Payment Orders
 
-#### 8.J Stats Dashboard
+For each payment made, a payment Order is generated. This Order goes through different statuses depending on the payment method. For instance, if social dancer makes a payment by Bank Transfer, that order will stay as Pending until organisers Approves it once they can see the movement on the account moving into a Paid state. That order can later on be refunded. If payment is done by card when using one of our payment gateways integrations, order goes directly to Paid and that order could later be refunded, and the money go back to the customer automatically minus a admin fee if on policies.
+
+#### 8.F e-Tickets
+
+Once the social dancer buys at least 1 activity, a QR Code ticket is generated. Same ticket will include all the activities the dancer buys, they would need later to present at the door for organisers/staff to scan it an verify the validity.
+
+### 9. Manage Registrations
+
+For Organisers, registrations can be managed through the mobile application and through the web platform.
+
+#### 9.1 Mobile App - Organisers View
+
+From the mobile application, the organiser can see a special section where all attendants are listed. It is possible to perform actions over registrations/applications like:
+- List all attendants, filter by status.
+- Accept or reject an application
+- View payment Orders per buyer.
+- Accept or Reject pending orders.
+- Refund Orders.
+- List orders by promoter.
+- Any details about each registration process. 
+
+#### 9.2 Web App - Dashboard
+
+Access to the same information that it is possible from the App and also take the same actions, but from a more comfortable view, on desktop instead from the mobile screen. Furthermore, it is possible to see all described on 9.1 but also the web platform offers chart options which are not present on the mobile version, such us:
+- Line Chart which describes the "Likes" of an event across the time.
+- Pie Chart to show attendances on each activity and overall the event.
+- Pie Chart to show event attendants filtered by Country and/or by Role.
 
 ## Expose from different artists pages.
 
@@ -159,14 +189,14 @@ As mentioned before, when organisers complete the the full programme, every DJ, 
 Each event added on the platform will be listed on Points of Tango application, but also a web page is generated dinamically following a template. A web version of the event which can be shared as an URL link. On this web version, user can go throught same data they would see on the mobile app: DJs and Artist lines up; Details; Full Programme; Accommodations; but also the option to register and pay for their bookins. This allows users not necessarely to have installed the mobile application in order to interact with the platform.
 Example of a web template is as follow: 
 
-### 10.1 Personalized Domains
+### 10.1 Personalize WebPage colours
+
+Each event would have a different colour palette. Based on the cover / background picture, it is possible to alterate the colours of the headers, menu lines, body text colour, etc. This would make the webpage to look different for each event. There are some default colours, which we encourage to adjust.
+
+### 10.2 Personalized Domains
 
 As you could see in the link above, event code and extra values are shown on the URL, this can make the link long and hard to remember. Therefore we have provide the option to add domains to the events; easier way to be remembered and also a cleaner and more descriptive link.
 Example following the link above:
-
-### 10.2 SEO included.
-
-When the link to the event is shared on social media, it will show the name of the event, the description and the cover picture.
 
 ## UKATA Members <-> Points of Tango
 
@@ -178,7 +208,23 @@ At the moment Points of Tango is not monetizating any of it features, however mo
 This are the points which will be considered to monetize in future (at least towards the end of the year.
 
 ### 1. Sponsored Events
+
+Event list is sorted by date but some events can be featured at the top of the list. Similarly to Google results, at most 2 events would be featured/sponsored at the top, followed by the 'organic' list sorted by date. Any event can be sponsored on any region, it doesn't need to belong. For instance, a milonga in London can be featured on the Paris region.
+
 ### 2. Notifications and Email targeted marketing service
+
+Addressed pushed notifications and emails to specific communities. It is possible to target the audience the organisers aim for to promoter a particular event.
+
 ### 3. Registration/Booking service
+
+Listing the event is totally Free, as mentioned above. For the registration/booking process (everything under point 8 above) a fixed fee will be charge to support the organisers along the whole process, assist with help desk and IT support.
+
 ### 4. Add ONs services
- (adquare extra keywords, include more organisers, increase the amount of discussion topics, among others)
+
+At different point on this document it was refering to this Adds ON section. Some information added to the events consumes more resources than others, therefore it is necessary to add a limit to the free use, however it can be easily extended if needed. Examples are:
+- Keywords: max 5 phrases
+- Organisers: max 2
+- Promoters: max 2
+- Staff: max 2
+- Payment Gateways: max 2
+- Topics (discussion section): max 3
