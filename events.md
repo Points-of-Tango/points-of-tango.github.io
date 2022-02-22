@@ -189,11 +189,11 @@ As mentioned before, when organisers complete the the full programme, every DJ, 
 Each event added on the platform will be listed on Points of Tango application, but also a web page is generated dinamically following a template. A web version of the event which can be shared as an URL link. On this web version, user can go throught same data they would see on the mobile app: DJs and Artist lines up; Details; Full Programme; Accommodations; but also the option to register and pay for their bookins. This allows users not necessarely to have installed the mobile application in order to interact with the platform.
 Example of a web template is as follow: 
 
-### 10.1 Personalize WebPage colours
+### 10.1 Personalise your Web Page Colours
 
 Each event would have a different colour palette. Based on the cover / background picture, it is possible to alterate the colours of the headers, menu lines, body text colour, etc. This would make the webpage to look different for each event. There are some default colours, which we encourage to adjust.
 
-### 10.2 Personalized Domains
+### 10.2 Personalised Domains
 
 As you could see in the link above, event code and extra values are shown on the URL, this can make the link long and hard to remember. Therefore we have provide the option to add domains to the events; easier way to be remembered and also a cleaner and more descriptive link.
 Example following the link above:
@@ -202,10 +202,10 @@ Example following the link above:
 
 Events from Organisers member of UKATA (United Kingdom Argentine Tango Association) present the UKATA logo on the event to recognise the membership, but most importantly, this events are also listed under the ukata website where it is also possible to visualize them on a map. [UKATA Tango Map | https://argentinetango.co.uk/uk-tango-events-map/]
 
-## Monetization
+# FREEMIUM Model.
 
-At the moment Points of Tango is not monetizating any of it features, however most of them, related to list and populate the event with as much information possible is and will be always free.
-This are the points which will be considered to monetize in future (at least towards the end of the year.
+Most of the features described on this document are totally Free. Any organiser can upload their event/s with very detailed information about it, with tools like the web page, full programme, messaging, etc. And this will be always free.
+This are the points which will be considered to monetize in future, as premium services.
 
 ### 1. Sponsored Events
 
