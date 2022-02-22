@@ -1,13 +1,13 @@
 # Events Module
 
 ### Audience and Scope
-This document talks about Points of Tango platform, general Vision and focuses on the Events Module dedicated for organisers and teachers.
-You must read if you are a tango teacher who host classes for any size (5 to to 50+ people) anywhere in the world.
-You must read if you are an organiser of local events, no matters the size/capacity of the event nor the where the event is localted.
-You must read if you are an organiser of an international event, no matters the size/capacity of the event nor the where the event is localted.
+This document talks about Points of Tango platform, general Vision and focuses on the Events Module dedicated for organisers and teachers. You shoud read it if you are:
+- a tango teacher who host classes for any size (5 to to 50+ people) anywhere in the world.
+- an organiser of local events, no matters the size/capacity of the event nor the where the event is localted.
+- an organiser of an international event, no matters the size/capacity of the event nor the where the event is localted.
 
 ## Points of Tango: General Vision | The Worldwide Tango Marketplace
-The purpose of this project is to gather on an unique platform, accessible through mobile and web, everything related to the tango comunity: International Events; Events on Local communities; Tango Stores; DJs, Professional Teachers and Performers, musicians, orchestras. All across the world, joined on a single platform for better communication, integration, accessibility and simplicity for everyone, social dancers, organisers, shop owners and professional artists.
+The purpose of this project is to gather on an unique platform (accessible on mobile phones, tablets and web), everything related to the tango comunity: International Events; Local communities Events; Tango Stores; DJs, Professional Teachers and Performers, Musicians, Orchestras. All across the world, everything and everyone, joined on a single platform for a better communication, integration, accessibility and simplicity for social dancers, organisers, shop owners and professional artists.
 
 ## Events: Points of Tango Mision on this particular module
 ### Problem 1: Incomplete and out of date information all over the Internet
