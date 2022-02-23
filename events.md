@@ -97,20 +97,20 @@ On each activity it is possibe to add:
  - Virtual Meeting Rooms (for online activities)
  - Location to find the specific activity as it can be different from the main event Location.
  - Booking details, such as price, currency and capacity of the activity.
- - Video Gallery, to promote the particular activity, it could be City Sightseen videos when adding a City tour activity or a tango performance video when adding classes or performances to expose the artists.
+ - Video Gallery, to promote the particular activity, it could be City Sightseeing videos when adding a City tour activity or a tango performance video when adding classes or performances to expose the artists.
 
 ### 3. Request Partners for classes/workshops
 
-When the event host classes/workshops, very often attendants ask organisers to be partnered on a particular class. When organisers enable this option, Points of Tango gives the option to the dancers to request for a partner on a particular class/workshop. Then the organiser, per each of the classes, matches the requests and notify the dancers. This is a useful feature as it is a tool for organisers to manage all this request in a simple way.
+When the event host classes/workshops, very often attendants ask organisers to be partnered on a particular class. When organisers enable this option, Points of Tango gives the option to the dancers to request for a partner on a particular class/workshop. Then, per each of the classes, organisers would match the requests and notify the dancers easily using a tool in the plafmorm.. This is a useful feature as it is a tool for organisers to manage all this request in a simple way.
 
 ### 4. Discussions
 
-Each event has a space where users can make questions/suggestions. Each post is public and owned by the user (similr to a posts on an particular Facebook event); Organises can add admin messages, which are shown differently and triggers a notification to users involved on the conversation but also they act as moderators to have rights to remove any offensive post.
-Organisers can create different topics for users to post on the right channel depending on their needs, for instance Accommodation arragements, Taxis shares, Restaurant recommendations, etc. ***Max 3 topics per event, which can be extended under the Adds On seccion***
+Each event has a space where users can make questions/suggestions. Each post is public and owned by the user (similar to a post on an particular Facebook event); Organises can add admin messages (which are shown differently and triggers a notification to users involved on the conversation) and also they act as moderators to have rights to remove any offensive post.
+Organisers may create different topics for users to post on the right channel depending on their needs, for instance Accommodation arragements, Taxis shares, Restaurant recommendations, etc. ***Max 3 topics per event, which can be extended under the Adds On seccion***
 
 ### 5. Covid Details
 
-Due to the current pandemic, different events require specific Covid conditions to be followed by the social dancers who attend. Possible to request whether the dancer needs to have a full vaccination certificate or any proof of a negative test; also tell attendants if masks are mandatory or indicate the change partners policy; etc.
+Due to the current pandemic, different events require specific Covid conditions to be followed by the social dancers who attend the event. Possible to request whether the dancer needs to have a full vaccination certificate or any proof of a negative test; also tell attendants if masks are mandatory or indicate the change partners policy; etc.
 
 ### 6. Show Room
 
@@ -118,17 +118,17 @@ Regularly events host Show Rooms inviting tango stores to expose their products 
 
 ### 7. Accommodations
 
-Events can run over a few consecutive days, therefore organisers regularly offer accommodation options to social dancers to stay over.
+Events can run over consecutive days, therefore organisers regularly offer accommodation options to social dancers to stay over.
 - Simply recommended acommodations nearby the event location.
-- Events hosted on a Hotel Hall, this option allows organisers to provide specific details about the accommodation facilities.
+- Events hosted on a Hotel Hall, this option allows organisers to provide specific details about the event accommodation facilities.
 
 There is no limit of accomodations to list per event. It allows to list contact details and location for each accommodation, their facilities, list of prices and a gallery of pictures.
 
 ### 8. Registration / Booking process
 
-- Registrations: The registration is personal, done from a Social Dancer account. They register, complete a form when requested and book the activities they want to attend. This process is used on Festivals and Championships, where there is not approval needed by the organisers.
-- Applications: The application is personal, done from a Social Dancer account. They apply, complete a form when requested. Once the organiser approves the application, the dancer can book the activities they wish to attend. This process is used on Marathon or small Festivals, where organisers have a limited capacity.
-- Bookins: A social dancer directly books activities, no registration needed.
+- Registrations: The registration is personal, done from a Social Dancer account. They register, complete a form if organisers request it, and book the activities they want to attend. This process is used on Festivals or Championships, where there is not approval needed by the organisers.
+- Applications: The application is personal, done from a Social Dancer account. They apply, complete a form if organisers request it. Once the organiser approves the application, the dancer can book the activities they wish to attend. This process is used on Marathon or small Festivals, where organisers have a limited capacity so the need to discriminate applicants.
+- Bookins: A social dancer directly books activities, no registration needed. More than 1 booking can be done from the same account.
 
 #### 8.A Dates 
 
@@ -137,33 +137,34 @@ There is no limit of accomodations to list per event. It allows to list contact 
 
 #### 8.B Registration forms
 
-If it is needed for the event from the organisers, for any tipe of registration process (Registration, Application or Booking) it is possible to add a registration form. At the moment the users registers or applyes to an event, the form will be presented to complete. In case of bookings, this form will be show before compliting the payment to the activity booked.
-This form is dynamic and the organisers can add as meny questions as needed, questions have different types to simplify answers from dancers and can be mark as mandatory and/or editables (meaning the answer can be edited after the registration process)
+If it is needed for the event from the organisers, for any type of registration process (Registration, Application or Booking) it is possible to add a registration form which would have to be filled in by social dancers at registration the moment. In case of bookings, this form will be show before compliting the payment to the activity booked.
+This form is dynamic and the organisers can add as meny questions as needed, questions have different types to simplify answers from dancers and can be marked as mandatory and/or editables (meaning the answer can be edited at any time)
 
 #### 8.C Event Packs
 
-User can book activities separatelly, but it is possible to create bundles for dancers to book and pay for a package-price. Bundles can have as many activities as wanted included but also activities to claim. For instance, 2 workshops to pick up out of 5 available. Dancer buys the pack, chose the workshops later.
+User can book activities separatelly, but it is possible to create bundles for dancers to book and pay for a package-price. Bundles can have as many activities as the event has included in it, but also can have activities to claim. For instance, they book 2 workshops to pick up out of 5 available. Dancer buys the pack, chose the workshops later.
 
 #### 8.D Add Promoters / Vouchers
 
-It is usual that events have promoters on different cityes or countries, specially international events. By adding promoters, it is possible to attach discount vauchers, depending on the organisers need. This discount vauchers can be either a fix amount of money or a percentage of the total of the order.
+It is usual that events have promoters on different cities or countries, specially international events. By adding promoters, it is possible to attach discount vauchers, depending on the organisers need. This discount vauchers can be either a fix amount of money or a percentage of the total of the order.
 
 #### 8.E Payment Methods
 
-At the moment it is possible to set up 4 payments methods:
-- Bank Transfers: Organisers can add all bank account details to share with social dancers to make the deposits. *Transfers are not yet made through the platform, we are looking at different integrations and finding the best deals for organisers. It will be added in the next few months*
-- Integration with payment gateways, the dancer would pay directly to the organisers account, therefore the event would have to set up an account on the gateway choosen before start taking payments. Options availables so far, some are restrictet by Country.
-  - Stripe: Largely used in Europe and North America.
+At the moment it is possible to set up 5 payments methods:
+- Direct Payment (default): Social Dancer indicates the platform the payment will be handled directly with the organiser (cash, exchange of service for instance). The payment order will stand as PENDING until organisers agrees.
+- Bank Transfers: Organisers can add all bank account details to share with social dancers to make the deposits. *Transfers are not yet made through the platform, we are looking at different integrations and finding the best deals for organisers. It will be added in the next few months*. After Bank Transfers payment selected, orders will stand as PENDING until organisers confirm the deposit arrived.
+- Integration with payment gateways, the dancer would pay directly to the organisers account, therefore the event would have to set up an account on the gateway choosen before start taking payments. Options availables so far (some are restrictet by Country):
+  - Stripe: Largely used in Europe and North America (no available on South America)
   - PayPal: Used across the world with just a few exceptions, like India
-  - MercadoPago: Largely used in Southamerica.
+  - MercadoPago: Largely used in South America.
 
 #### 8.G Payment Orders
 
-For each payment made, a payment Order is generated. This Order goes through different statuses depending on the payment method. For instance, if social dancer makes a payment by Bank Transfer, that order will stay as Pending until organisers Approves it once they can see the movement on the account moving into a Paid state. That order can later on be refunded. If payment is done by card when using one of our payment gateways integrations, order goes directly to Paid and that order could later be refunded, and the money go back to the customer automatically minus a admin fee if on policies.
+For each payment made, a payment Order is generated. This Order goes through different statuses depending on the payment method. For instance, if social dancer makes a payment by Bank Transfer, that order will stay as PENDING until organisers Approves it once they can see the movement on the account, moving the order into a PAID state. That order can later on be Refunded. If payment is done by card when using one of our payment gateways integrations, order goes directly to PAID and that order could later be Refunded, and the money go back to the customer automatically, minus a admin fee if on policies.
 
 #### 8.F e-Tickets
 
-Once the social dancer buys at least 1 activity, a QR Code ticket is generated. Same ticket will include all the activities the dancer buys, they would need later to present at the door for organisers/staff to scan it an verify the validity.
+Once the social dancer books at least 1 activity, a QR Code ticket is generated. Same ticket will include all the activities the dancer book, they would need later to present this QR Code at the door for organisers/staff to scan it, verify the validity and check them IN.
 
 ### 9. Manage Registrations
 
@@ -172,18 +173,18 @@ For Organisers, registrations can be managed through the mobile application and 
 #### 9.1 Mobile App - Organisers View
 
 From the mobile application, the organiser can see a special section where all attendants are listed. It is possible to perform actions over registrations/applications like:
-- List all attendants, filter by status.
-- Accept or reject an application
-- View payment Orders per buyer.
+- List all attendants, filter by status and search by attendant name.
+- View payment Orders per attendant.
+- List orders by promoter.
+- Accept or reject an applications.
 - Accept or Reject pending orders.
 - Refund Orders.
-- List orders by promoter.
-- Any details about each registration process. 
+- Fetch any details about each registration process. 
 
 #### 9.2 Web App - Dashboard
 
-Access to the same information that it is possible from the App and also take the same actions, but from a more comfortable view, on desktop instead from the mobile screen. Furthermore, it is possible to see all described on 9.1 but also the web platform offers chart options which are not present on the mobile version, such us:
-- Line Chart which describes the "Likes" of an event across the time.
+Access to the same information than the App and take the same actions (all included on 9.1) with a more comfortable view, on desktop instead from the mobile screen. Furthermore, from Web platform it is possible to see all described above plus offers chart options which are not present on the mobile version, such us:
+- Line Chart which describes the "Likes" of the event across the time (how many 'likes' per day or per week)
 - Pie Chart to show attendances on each activity and overall the event.
 - Pie Chart to show event attendants filtered by Country and/or by Role.
 
