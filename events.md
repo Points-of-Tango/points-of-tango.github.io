@@ -202,29 +202,36 @@ Example following the link above:
 
 Events from Organisers member of UKATA (United Kingdom Argentine Tango Association) present the UKATA logo on the event to recognise the membership, but most importantly, this events are also listed under the ukata website where it is also possible to visualize them on a map. [UKATA Tango Map | https://argentinetango.co.uk/uk-tango-events-map/]
 
-# FREEMIUM Model.
 
-Most of the features described on this document are totally Free. Any organiser can upload their event/s with very detailed information about it, with tools like the web page, full programme, messaging, etc. And this will be always free.
-This are the points which will be considered to monetize in future, as premium services.
+
+## FREEMIUM Model.
+
+### Free
+Most of the features described on this document are Free of charge. Any organiser can upload their event/s, locally and internationally, with a very detailed information, tools like the web page, full programme, messaging, and more.
+
+### Premium
 
 ### 1. Sponsored Events
 
-Event list is sorted by date but some events can be featured at the top of the list. Similarly to Google results, at most 2 events would be featured/sponsored at the top, followed by the 'organic' list sorted by date. Any event can be sponsored on any region, it doesn't need to belong. For instance, a milonga in London can be featured on the Paris region.
+Event list is sorted by date but some events can be featured at the top of the list. Similarly to Google results, at most 2 events would be featured/sponsored at the top, followed by the 'organic' list sorted by date.
+Any event can be sponsored on any country and region, despite where the event is hosted. For instance, a milonga in London can be sponsored on the Paris region.
 
 ### 2. Notifications and Email targeted marketing service
 
-Addressed pushed notifications and emails to specific communities. It is possible to target the audience the organisers aim for to promoter a particular event.
+Addressed pushed notifications and emails to specific communities. Target the audience the organisers aim for to promoter a particular event.
 
 ### 3. Registration/Booking service
 
-Listing the event is totally Free, as mentioned above. For the registration/booking process (everything under point 8 above) a fixed fee will be charge to support the organisers along the whole process, assist with help desk and IT support.
+The listing is totally Free, as mentioned above. The registration/booking process (everything under the point 8 in the previous section) engages more resourses from the platform. A fixed fee would be charge to support the organisers along the whole process, help desk assistance and IT support. Fees will depend on the size of the event.
 
 ### 4. Add ONs services
 
-At different point on this document it was refering to this Adds ON section. Some information added to the events consumes more resources than others, therefore it is necessary to add a limit to the free use, however it can be easily extended if needed. Examples are:
+There were refferences to the Adds ON section on different sections of this document. There is a Free limit on each of the ADDS ON, which can be extended with premium accounts.
+Furthermore, and most importantly on this section, each ADDs On can be adquire independently and one by one depending on needs.
+Current ADDS ON with itd Free quota, which can be incremented by at least one
 - Keywords: max 5 phrases
-- Organisers: max 2
-- Promoters: max 2
-- Staff: max 2
-- Payment Gateways: max 2
-- Topics (discussion section): max 3
+- Organisers: max 2 organisers
+- Promoters: max 2 promoters
+- Staff: max 2 staff
+- Payment Gateways: max 2 payment methods
+- Topics (discussion section): max 3 topics.
