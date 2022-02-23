@@ -198,22 +198,24 @@ Each event would have a different colour palette. Based on the cover / backgroun
 As you could see in the link above, event code and extra values are shown on the URL, this can make the link long and hard to remember. Therefore we have provide the option to add domains to the events; easier way to be remembered and also a cleaner and more descriptive link.
 Example following the link above:
 
+
 ## UKATA Members <-> Points of Tango
 
-Events from Organisers member of UKATA (United Kingdom Argentine Tango Association) present the UKATA logo on the event to recognise the membership, but most importantly, this events are also listed under the ukata website where it is also possible to visualize them on a map. [UKATA Tango Map | https://argentinetango.co.uk/uk-tango-events-map/]
+Events from UKATA members (United Kingdom Argentine Tango Association) show on the mobile app the UKATA logo to the event to highlight the membership, but most importantly, these events are also listed under the UKATA website under the UK Tango Map.
+[UKATA Tango Map|https://argentinetango.co.uk/uk-tango-events-map/]
 
 
 
-## FREEMIUM Model.
+# FREEMIUM Model.
 
 ### Free
-Most of the features described on this document are Free of charge. Any organiser can upload their event/s, locally and internationally, with a very detailed information, tools like the web page, full programme, messaging, and more.
+Most of the features described on this document are Free of charge. Any organiser can upload their event/s, locally and internationally, with a very detailed information, tools like the web page, full programme, messaging, request partner, and more, are available to use.
 
 ### Premium
 
 ### 1. Sponsored Events
 
-Event list is sorted by date but some events can be featured at the top of the list. Similarly to Google results, at most 2 events would be featured/sponsored at the top, followed by the 'organic' list sorted by date.
+The event organic list is sorted by date. However, events can be featured at the top of the list. Similarly to Google results, atmost 2 events would be featured/sponsored at the top, followed by the 'organic' list.
 Any event can be sponsored on any country and region, despite where the event is hosted. For instance, a milonga in London can be sponsored on the Paris region.
 
 ### 2. Notifications and Email targeted marketing service
@@ -222,16 +224,14 @@ Addressed pushed notifications and emails to specific communities. Target the au
 
 ### 3. Registration/Booking service
 
-The listing is totally Free, as mentioned above. The registration/booking process (everything under the point 8 in the previous section) engages more resourses from the platform. A fixed fee would be charge to support the organisers along the whole process, help desk assistance and IT support. Fees will depend on the size of the event.
+The listing is totally Free, as mentioned above. The registration/booking process (everything under the point 8 in the previous section) engages more resourses from the platform. A fixed fee would be charge to support the organisers along the whole process, help desk assistance and IT support. Fees will depend on the size of the event and the frequency.
 
-### 4. Add ONs services
+### 4. ADD-ON services
 
-There were refferences to the Adds ON section on different sections of this document. There is a Free limit on each of the ADDS ON, which can be extended with premium accounts.
-Furthermore, and most importantly on this section, each ADDs On can be adquire independently and one by one depending on needs.
-Current ADDS ON with itd Free quota, which can be incremented by at least one
-- Keywords: max 5 phrases
-- Organisers: max 2 organisers
-- Promoters: max 2 promoters
-- Staff: max 2 staff
-- Payment Gateways: max 2 payment methods
-- Topics (discussion section): max 3 topics.
+There is a Free limit on each of the ADD-ON, which can be extended with premium accounts. Furthermore, each ADD-ON can be adquire independently, depending on needs. Current ADD-ON free quota:
+- Keyword Phrases: max 5.
+- Organisers: max 2.
+- Promoters: max 2.
+- Staff: max 2.
+- Payment Gateways: max 2.
+- Topics (discussion section): max 3.
