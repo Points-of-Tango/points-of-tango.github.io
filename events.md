@@ -54,7 +54,7 @@ Points of Tango's goal is to host as many events as possible to be able to offer
 
 ## How and Which information can be added to an event.
 
-To upload information to the Points of Tango platform, it is only necessary to have an account belonging to one of the organisers of the event (to create the account, it is possible to do it via web or by downloading the application). The account should have marked 'I am also an Organisers' on the profile to be able to create events. Sign in to our web platform and create your events: https://points-of-tango.web.app/
+To upload information to the Points of Tango platform, it is only necessary to have an account belonging to one of the organisers of the event (to create the account, it is possible to do it via web or by downloading the application). The account should have marked 'I am also an Organisers' on the profile to be able to create events. Sign in to our web platform and create your events: [Web Platform](https://points-of-tango.web.app/)
 
 *Note: After creating International events, an admin has to validate it before the organiser can continue with the upload.*
 
@@ -127,8 +127,8 @@ There is no limit of accomodations to list per event. It allows to list contact 
 
 ### 8. Registration / Booking process
 
-- Registrations: The registration is personal, done from a Social Dancer account. They register, complete a form if organisers request it, and book the activities they want to attend. This process is used on Festivals or Championships, where there is not approval needed by the organisers.
-- Applications: The application is personal, done from a Social Dancer account. They apply, complete a form if organisers request it. Once the organiser approves the application, the dancer can book the activities they wish to attend. This process is used on Marathon or small Festivals, where organisers have a limited capacity so the need to discriminate applicants.
+- Registrations: The registration is personal, done from a Social Dancer account. They register, complete a form (if organisers request it), and book the activities they want to attend. This process is used on Festivals or Championships, where there is not approval needed by the organisers.
+- Applications: The application is personal, done from a Social Dancer account. They apply, complete a form if organisers request it. Once the organiser approves the application, the dancer can book the activities they wish to attend. This process is used on Marathon or small Festivals, where organisers have a limited capacity so there is need to discriminate applicants.
 - Bookings: A social dancer directly books activities, no registration needed. More than 1 booking can be done from the same account.
 
 #### 8.A Dates 
@@ -138,34 +138,37 @@ There is no limit of accomodations to list per event. It allows to list contact 
 
 #### 8.B Registration forms
 
-If it is needed for the event from the organisers, for any type of registration process (Registration, Application or Booking) it is possible to add a registration form which would have to be filled in by social dancers at registration the moment. In case of bookings, this form will be show before compliting the payment to the activity booked.
-This form is dynamic and the organisers can add as meny questions as needed, questions have different types to simplify answers from dancers and can be marked as mandatory and/or editables (meaning the answer can be edited at any time)
+It is possible to add a registration/booking form when organisers need extra information, which would have to be filled in by social dancers. This form is dynamic and the organisers can add as meny questions as needed, questions have different types to simplify answers and they can be marked as mandatory and/or editables (meaning the answer can be ammended at any time).
 
 #### 8.C Event Packs
 
-User can book activities separatelly, but it is possible to create bundles for dancers to book and pay for a package-price. Bundles can have as many activities as the event has included in it, but also can have activities to claim. For instance, they book 2 workshops to pick up out of 5 available. Dancer buys the pack, chose the workshops later.
+User can book activities separatelly, but it is possible to create bundles for dancers to book and pay for a package-price. Bundles can have as many activities as the event has included in it, but also can have activities to claim. For instance, they book 2 workshops to pick up out of 5 available. Dancer buys the pack and choses the workshops later.
 
 #### 8.D Add Promoters / Vouchers
 
-It is usual that events have promoters on different cities or countries, specially international events. By adding promoters, it is possible to attach discount vauchers, depending on the organisers need. This discount vauchers can be either a fix amount of money or a percentage of the total of the order.
+It is usual that events have promoters on different cities or countries, specially international events. By adding promoters, it is possible to attach discount vauchers, depending on the organiser's need. The discount vauchers can be either a fix amount of money or a percentage of the total of the order.
 
 #### 8.E Payment Methods
 
 At the moment it is possible to set up 5 payments methods:
-- Direct Payment (default): Social Dancer indicates the platform the payment will be handled directly with the organiser (cash, exchange of service for instance). The payment order will stand as PENDING until organisers agrees.
-- Bank Transfers: Organisers can add all bank account details to share with social dancers to make the deposits. *Transfers are not yet made through the platform, we are looking at different integrations and finding the best deals for organisers. It will be added in the next few months*. After Bank Transfers payment selected, orders will stand as PENDING until organisers confirm the deposit arrived.
-- Integration with payment gateways, the dancer would pay directly to the organisers account, therefore the event would have to set up an account on the gateway choosen before start taking payments. Options availables so far (some are restrictet by Country):
+- Direct Payment (default): Social Dancer indicates the platform the payment will be handled directly with the organiser (cash, exchange of service for instance). The payment order will stand as PENDING until organisers agree.
+- Bank Transfers: Organisers can add all bank account details to share with social dancers to make the deposits. *Transfers are not yet made through the platform, we are looking at different integrations and finding the best deals for organisers. It will be added in the next few months*. After the Bank Transfer method is selected, orders will stand as PENDING until organisers confirm the deposit has arrived.
+- Integration with payment gateways, the dancer would pay directly to the organisers account, therefore the event would have to set up an account on the gateway choosen before start taking payments. Options available so far are:
   - Stripe: Largely used in Europe and North America (no available on South America)
   - PayPal: Used across the world with just a few exceptions, like India
   - MercadoPago: Largely used in South America.
 
-#### 8.G Payment Orders
+#### 8.F Payment Orders
 
-For each payment made, a payment Order is generated. This Order goes through different statuses depending on the payment method. For instance, if social dancer makes a payment by Bank Transfer, that order will stay as PENDING until organisers Approves it once they can see the movement on the account, moving the order into a PAID state. That order can later on be Refunded. If payment is done by card when using one of our payment gateways integrations, order goes directly to PAID and that order could later be Refunded, and the money go back to the customer automatically, minus a admin fee if on policies.
+For each payment made, a payment Order is generated. This Order goes through different statuses depending on the payment method. For instance, if a social dancer makes a payment by Bank Transfer, that order will stay as PENDING until one of the organisers approves it (possibly after the money moved onto the account), then the order goes to a PAID state. On the other hand, if a payment is done by using one of our payment gateways integrations, the order goes directly to PAID state.
 
-#### 8.F e-Tickets
+#### 8.G Refunds
 
-Once the social dancer books at least 1 activity, a QR Code ticket is generated. Same ticket will include all the activities the dancer book, they would need later to present this QR Code at the door for organisers/staff to scan it, verify the validity and check them IN.
+Orders on PAID status can be refunded, only if none of the activities included has been attended. The organiser can decide (depending on the payment method) whether the money is also refunded on its full amount.
+
+#### 8.H e-Tickets
+
+Once the social dancer books at least 1 activity, a QR Code code e-ticket is generated. The same ticket will include all the activities the dancer books. This ticket has to be shown at the door of each activity for organisers/staff to scan it and verify its validity.
 
 ### 9. Manage Registrations
 
@@ -212,8 +215,7 @@ Example following the link above:
 
 ## UKATA Members <-> Points of Tango
 
-Events from UKATA members (United Kingdom Argentine Tango Association) show on the mobile app the UKATA logo of the event to highlight the membership, but most importantly, these events are listed on the UKATA website under the UK Tango Map.
-[UKATA Tango Map|https://argentinetango.co.uk/uk-tango-events-map]
+Events from UKATA members (United Kingdom Argentine Tango Association) show on the mobile app the UKATA logo of the event to highlight the membership, but most importantly, these events are listed on the UKATA website under the [UK Tango Map](https://argentinetango.co.uk/uk-tango-events-map).
 
 
 # FREEMIUM Model.
