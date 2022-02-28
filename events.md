@@ -7,7 +7,7 @@ This document talks about Points of Tango platform general Vision and focuses on
 - a local events organiser, no matters the size/capacity of the event but targeted to a specific community.
 - an international events organiser, no matters the size/capacity of the event nor where the event is localted.
 
-## B. Points of Tango: General Vision | The Worldwide Tango Marketplace
+## B. Points of Tango: General Vision - A Worldwide Tango Marketplace
 
 The purpose of the application is to gather on an unique platform (accessible on mobile phones, tablets and web) everything related to the tango comunity: International Events; Local communities Events; Tango Stores; DJs, Professional Teachers and Performers, Musicians, Orchestras. All across the world, everything and everyone, joined on a single platform for a better communication, integration, accessibility and simplicity for social dancers, organisers, shop owners and professional artists.
 
