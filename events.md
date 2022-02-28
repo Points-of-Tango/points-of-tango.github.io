@@ -14,15 +14,15 @@ The purpose of the application is to gather on an unique platform (accessible on
 ## C. Events: Points of Tango Mision on this module
 
 
-### C.1 
+### C.1 We need integration on different levels.
 
-#### C.1.A Incomplete and out of date information all over the Internet
+#### C.1.a Incomplete and out of date information all over the Internet
 Information about events is spread and desorganised all over the Internet, across countless webpages and platforms. Facebook for instance, organisers rely on listing their events or groups to reach out to the big audience. However, the overall information on mentioned platform is not well organised nor tango specific. A few local communities have (among their own many local websites options) one platform where people rely the most but, even if these websites had the latest information, each community creates their own system/platform, making it hard for social dancers to know which platform works best for each city (beside, these websites mainly focus on events). Examples are:
 - hoy-milonga.com - Buenos Aires
 - londonmilongas.co.uk - London
 - tango-argentin.fr - Paris (also used in other french regions)
 
-#### C.1.B Too many registration processes and ways of payment.
+#### C.1.b Too many registration processes and ways of payment.
 Each event has its own particular registration processes, specially international events. Organisers use different platforms to register the users, through various forms, accessing to many different websites. Social dancers spend time and effort looking for all these, knowing how and what to fill up on those processes.
 On the payment side, there is no much difference, each tango event have their own way of payment, with expensive fees and not able to work well in every country.
 
@@ -60,30 +60,30 @@ Listed below are all different types of information which can be added to the ev
 
 ### D.1. Main Event Details information.
 
-#### D.1.A Generic Information
+#### D.1.a Generic Information
 - Name, Description, City, Country
 - Dates: Add starting and ending time. It could be on the same day (i.e a class from 6 to 7 pm on the 30/03/2022) or a limited consecutive days (from 6 pm on 30/03/2022 to 3 am on 03/04/2022)
 - Contact Details: Website; Email; Phone Number
 - Main Location: Add the main address and coordenates of the event for users to open your event on a map.
 - Keywords: For the Search Events section, the more keywords the easier to search for your event. They could be any word which is not on the name or the city but describes the nature of the event, for instance a keyword could be 'beach' if the event were on the sea side. ***Max 5 keywords, which can be extended under the Adds On seccion***  
 
-#### D.1.B Pictures
+#### D.1.b Pictures
 
 Each event can add a profile (logo) picture and a cover picture (Facebook's event like) and the option to add an optional Background picture for the web version. If this is not present, the cover picture will be used instead.
 
-#### D.1.C Add Organisers and Staff
+#### D.1.c Add Organisers and Staff
 
 Each event may have a list of organisers. Any organiser has full access to edit and manage the event. Furthermore, each event can include Staff memebers, this is a lower admin role, with a limited access to edit and manage the event. ***Max 3 organisers and 2 Staff, which can be extended under the Add-On seccion*** 
 
-#### D.1.D Add Videos to Events
+#### D.1.d Add Videos to Events
 
 It is possible to add a galery of videos to the events, to promote the event, activities or artists.
 
-#### D.1.E DJs Line up
+#### D.1.e DJs Line up
 
 If the event hosts 1 or more DJs, it is possible to add a Line Up of these DJs. They can be added manually or by searching DJs who have an account on the platfom. Last option, the event will Tag the DJ to the event, and the DJ may then add the event on their personal DJ page on the platform.
 
-#### D.1.F Performers & Teachers Line up
+#### D.1.f Performers & Teachers Line up
 
 Similarly to DJs point, it is possible to add a Line Up of Performers, Musicians, Teachers, Orchestras for the event and Tag them so the event will be listed on each artist personal page on the platform.
 
@@ -129,24 +129,24 @@ There is no limit of accomodations to list per event. It allows to list contact 
 - Applications: The application is personal, done from a Social Dancer account. They apply, complete a form if organisers request it. Once the organiser approves the application, the dancer can book the activities they wish to attend. This process is used on Marathon or small Festivals, where organisers have a limited capacity so there is need to discriminate applicants.
 - Bookings: A social dancer directly books activities, no registration needed. More than 1 booking can be done from the same account.
 
-#### D.8.A Dates 
+#### D.8.a Dates 
 
 - Registration Open Date: The organisers can specify the date and time when registrations/applications to the event will be available.
 - Booking Date: The organisers can specify the date and time when bookings to activities will be available.
 
-#### D.8.B Registration forms
+#### D.8.b Registration forms
 
 It is possible to add a registration/booking form when organisers need extra information, which would have to be filled in by social dancers. This form is dynamic and the organisers can add as meny questions as needed, questions have different types to simplify answers and they can be marked as mandatory and/or editables (meaning the answer can be ammended at any time).
 
-#### D.8.C Event Packs
+#### D.8.c Event Packs
 
 User can book activities separatelly, but it is possible to create bundles for dancers to book and pay for a package-price. Bundles can have as many activities as the event has included in it, but also can have activities to claim. For instance, they book 2 workshops to pick up out of 5 available. Dancer buys the pack and choses the workshops later.
 
-#### D.8.D Add Promoters / Vouchers
+#### D.8.d Add Promoters / Vouchers
 
 It is usual that events have promoters on different cities or countries, specially international events. By adding promoters, it is possible to attach discount vauchers, depending on the organiser's need. The discount vauchers can be either a fix amount of money or a percentage of the total of the order.
 
-#### D.8.E Payment Methods
+#### D.8.e Payment Methods
 
 At the moment it is possible to set up 5 payments methods:
 - Direct Payment (default): Social Dancer indicates the platform the payment will be handled directly with the organiser (cash, exchange of service for instance). The payment order will stand as PENDING until organisers agree.
@@ -156,15 +156,15 @@ At the moment it is possible to set up 5 payments methods:
   - PayPal: Used across the world with just a few exceptions, like India
   - MercadoPago: Largely used in South America.
 
-#### D.8.F Payment Orders
+#### D.8.f Payment Orders
 
 For each payment made, a payment Order is generated. This Order goes through different statuses depending on the payment method. For instance, if a social dancer makes a payment by Bank Transfer, that order will stay as PENDING until one of the organisers approves it (possibly after the money moved onto the account), then the order goes to a PAID state. On the other hand, if a payment is done by using one of our payment gateways integrations, the order goes directly to PAID state.
 
-#### D.8.G Refunds
+#### D.8.g Refunds
 
 Orders on PAID status can be refunded, only if none of the activities included has been attended. The organiser can decide (depending on the payment method) whether the money is also refunded on its full amount.
 
-#### D.8.H e-Tickets
+#### D.8.h e-Tickets
 
 Once the social dancer books at least 1 activity, a QR Code code e-ticket is generated. The same ticket will include all the activities the dancer books. This ticket has to be shown at the door of each activity for organisers/staff to scan it and verify its validity.
 
@@ -172,7 +172,7 @@ Once the social dancer books at least 1 activity, a QR Code code e-ticket is gen
 
 For Organisers, registrations can be managed through the mobile application and through the web platform.
 
-#### D.9.1 Mobile App - Organisers View
+#### D.9.a Mobile App - Organisers View
 
 From the mobile application, the organiser can see a special section where all attendants are listed. It is possible to perform actions over registrations/applications such as:
 - List all attendants, filter by status and search by attendant's name.
@@ -183,9 +183,9 @@ From the mobile application, the organiser can see a special section where all a
 - Refund Orders.
 - Fetch any detail about each registration process. 
 
-#### D.9.2 Web App - Dashboard
+#### D.9.b Web App - Dashboard
 
-From the Web platform (through a dashboard) it is possible to see everything described above (9.1) plus it offers chart options which are not present on the mobile version, such as:
+From the Web platform (through a dashboard) it is possible to see everything described above (D.9.a) plus it offers chart options which are not present on the mobile version, such as:
 - Line Chart which describes the "Likes" of the event across the time (how many 'likes' per day or per week)
 - Pie Chart to show attendances on each activity and overall the event.
 - Pie Chart to show event attendants filtered by Country and/or by Role.
