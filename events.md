@@ -198,17 +198,17 @@ When organisers complete the full programme, every DJ, Performer, Teacher, Orche
 
 Each event added on the platform will be listed on Points of Tango mobile application, but also a web page is generated dinamically following a template, a website version of the event which can be shared as an URL link. On this web version, user can go through same data they would see on the mobile app: DJs and Artist lines up; Details; Full Programme; Accommodations; Registration and Booking precesses. This allows users not necessarely to have installed the mobile application in order to interact with the platform.
 Example of a web template is as follow:
-- International Event:
-- Local Community Event:
+- International Event: Oster Tango Festival, [https://points-of-tango.web.app/events/view?eventId=14042022_O23249049](https://points-of-tango.web.app/events/view?eventId=14042022_O23249049)
+- Local Community Event: Milonga 3D [https://points-of-tango.web.app/events/view?country=GBR&region=ENG_GLN&eventId=03072021_M3A288547](https://points-of-tango.web.app/events/view?country=GBR&region=ENG_GLN&eventId=03072021_M3A288547)
 
-### F.1 Personalise your Web Page Colours
+### F.1 Personalise your W)b Page Colours
 
 Each event would have a different colour palette. Based on the cover / background picture, it is possible to change the colours of the headers, menu lines, body text colour, etc. This would make the webpage to look different for each event. There are some default colours, which we encourage to be adjusted.
 
 ### F.2 Personalised Domains
 
 As you could see in the wesite links above, the event code and extra values are shown on the URL (longer for local communities), this makes the link long and hard for users/dancers to remember. For this reason the platform provides the option to add domains to events; easier way to be remembered and a cleaner and more descriptive link.
-Example following the link above:
+Example domain for Oster Tango: [https://points-of-tango.web.app/events/ostertango](https://points-of-tango.web.app/events/ostertango)
 
 
 ## G. UKATA Members <-> Points of Tango
