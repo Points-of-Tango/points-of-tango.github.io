@@ -2,32 +2,32 @@
 
 ## A. Audience and Scope
 
-This document talks about Points of Tango platform general Vision and focuses on the Events Module dedicated for organisers and teachers. You shoud read it if you are:
+This document talks about Points of Tango platform general Vision and focuses on the Events Module dedicated for organisers and teachers. You should read it if you are:
 - a tango teacher who hosts classes anywhere in the world.
 - a local events organiser, no matters the size/capacity of the event but targeted to a specific community.
-- an international events organiser, no matters the size/capacity of the event nor where the event is localted.
+- an international events organiser, no matters the size/capacity of the event nor where the event is located.
 
 ## B. Points of Tango: General Vision - A Worldwide Tango Marketplace
 
-The purpose of the application is to gather on an unique platform (accessible on mobile phones, tablets and web) everything related to the tango comunity: International Events; Local communities Events; Tango Stores; DJs, Professional Teachers and Performers, Musicians, Orchestras. All across the world, everything and everyone, joined on a single platform for a better communication, integration, accessibility and simplicity for social dancers, organisers, shop owners and professional artists.
+The purpose of the application is to gather on an unique platform (accessible on mobile phones, tablets and web) everything related to the tango community: International Events; Local communities Events; Tango Stores; DJs, Professional Teachers and Performers, Musicians, Orchestras. All across the world, everything and everyone, joined on a single platform for a better communication, integration, accessibility and simplicity for social dancers, organisers, shop owners and professional artists.
 
-## C. Events: Points of Tango Mision on this module
+## C. Events: Points of Tango Mission on this module
 
 
 ### C.1 We need integration on different levels.
 
 #### C.1.a Incomplete and out of date information all over the Internet
-Information about events is spread and desorganised all over the Internet, across countless webpages and platforms. Facebook for instance, organisers rely on listing their events or groups to reach out to the big audience. However, the overall information on mentioned platform is not well organised nor tango specific. A few local communities have (among their own many local websites options) one platform where people rely the most but, even if these websites had the latest information, each community creates their own system/platform, making it hard for social dancers to know which platform works best for each city (beside, these websites mainly focus on events). Examples are:
+Information about events is spread and disorganised all over the Internet, across countless webpages and platforms. Facebook for instance, organisers rely on listing their events or groups to reach out to the big audience. However, the overall information on mentioned platform is not well organised nor tango specific. A few local communities have (among their own many local websites options) one platform where people rely the most but, even if these websites had the latest information, each community creates their own system/platform, making it hard for social dancers to know which platform works best for each city (beside, these websites mainly focus on events). Examples are:
 - hoy-milonga.com - Buenos Aires
 - londonmilongas.co.uk - London
 - tango-argentin.fr - Paris (also used in other french regions)
 
 #### C.1.b Too many registration processes and ways of payment.
-Each event has its own particular registration processes, specially international events. Organisers use different platforms to register the users, through various forms, accessing to many different websites. Social dancers spend time and effort looking for all these, knowing how and what to fill up on those processes.
-On the payment side, there is no much difference, each tango event have their own way of payment, with expensive fees and not able to work well in every country.
+Each event has its own particular registration processes, specially international events. Organisers use different forms, accessing through many different websites. Social dancers spend time and effort looking for all these, not easily knowing how and what to fill in those forms.
+On the payment side, there is no much difference, each tango event have their own way of payment, some with expensive fees and not able to work well in every country.
 
-### C.2 Mission: Unique platfrom to find all events which unifies and simplifies registration processes, bookings and payments.
-Points of Tango aims to have all events in one unique platform, where social dancers only should ask where they want to list events from, International or selecting any Country and Region. 
+### C.2 Mission: Unique platform to find all events which unifies and simplifies registration processes, bookings and payments.
+Points of Tango aims to have all events in one unique platform, where social dancers only should ask where they want to list events from, International or selecting any Country and Region for local communities. 
 Points of Tango offers a platform and contacts organisers, stores, artists to inform them about this revolutionary opportunity. Now, everyone has to do one's bit, uploading the information to make this possible so everyone can enjoy the benefits.
 
 
@@ -35,9 +35,9 @@ Points of Tango offers a platform and contacts organisers, stores, artists to in
 
 The event module offers to Organisers, Stores, Artists and Social Dancers various benefits, detailed bellow.
 
-*Note: Contact us in order to know further details, request a Demo if necessary. We are more than happy to let you all about this application.*
+*Note: Contact us in order to know further details, request a Demo if necessary. We are more than happy to inform you all about this application.*
 
-*Definition: Events at Points of Tango are defined as any tango event which has a start and end time either on a specific date or on a limited consecutive days (a whole weekend or full week, for instance). Events are classified by type: Milongas, Group or Private Classes, Practicas, Championships, Marathons, Festivals, Encuentros, Meetings, Retreats, Vacations.*
+**Definition:** *Events at Points of Tango are defined as any tango event which has a start and end time either on a specific date or on a limited consecutive days (a whole weekend or full week, for instance). Events are classified by type: Milongas, Group or Private Classes, Practicas, Championships, Marathons, Festivals, Encuentros, Meetings, Retreats, Vacations.*
 
 The Events Module on Points of Tango supports 2 scopes:
 
@@ -56,7 +56,7 @@ To upload information to the Points of Tango platform, it is only necessary to h
 
 *Note: After creating International events, an admin has to validate it before the organiser can continue with the upload.*
 
-Listed below are all different types of information which can be added to the event. There is no distiction on International or Local Events respecting on the data to be added, both scopes can add exactly the same amount of information, this is described in the next points:
+Listed below are all different types of information which can be added to the event. There is no distinction on International or Local Events respecting on the data to be added, both scopes can add exactly the same amount of information, this is described in the next points:
 
 ### D.1. Main Event Details information.
 
@@ -64,8 +64,8 @@ Listed below are all different types of information which can be added to the ev
 - Name, Description, City, Country
 - Dates: Add starting and ending time. It could be on the same day (i.e a class from 6 to 7 pm on the 30/03/2022) or a limited consecutive days (from 6 pm on 30/03/2022 to 3 am on 03/04/2022)
 - Contact Details: Website; Email; Phone Number
-- Main Location: Add the main address and coordenates of the event for users to open your event on a map.
-- Keywords: For the Search Events section, the more keywords the easier to search for your event. They could be any word which is not on the name or the city but describes the nature of the event, for instance a keyword could be 'beach' if the event were on the sea side. ***Max 5 keywords, which can be extended under the Adds On seccion***  
+- Main Location: Add the main address and coordinates of the event for users to open your event on a map.
+- Keywords: For the Search Events section, the more keywords the easier to search for your event. They could be any word which is not on the name or the city but describes the nature of the event, for instance a keyword could be 'beach' if the event were on the sea side. ***Max 5 keywords, see ADDs-ON section***  
 
 #### D.1.b Pictures
 
@@ -73,15 +73,15 @@ Each event can add a profile (logo) picture and a cover picture (Facebook's even
 
 #### D.1.c Add Organisers and Staff
 
-Each event may have a list of organisers. Any organiser has full access to edit and manage the event. Furthermore, each event can include Staff memebers, this is a lower admin role, with a limited access to edit and manage the event. ***Max 3 organisers and 2 Staff, which can be extended under the Add-On seccion*** 
+Each event may have a list of organisers. Any organiser has full access to edit and manage the event. Furthermore, each event can include Staff members, this is a lower admin role, with a limited access to edit and manage the event. ***Max 3 organisers and 2 Staff, see ADDs-ON section*** 
 
 #### D.1.d Add Videos to Events
 
-It is possible to add a galery of videos to the events, to promote the event, activities or artists.
+It is possible to add a gallery of videos to the events, to promote the event, activities or artists.
 
 #### D.1.e DJs Line up
 
-If the event hosts 1 or more DJs, it is possible to add a Line Up of these DJs. They can be added manually or by searching DJs who have an account on the platfom. Last option, the event will Tag the DJ to the event, and the DJ may then add the event on their personal DJ page on the platform.
+If the event hosts 1 or more DJs, it is possible to add a Line Up of these DJs. They can be added manually or by searching DJs who have an account on the platform. Last option, the event will Tag the DJ to the event, and the DJ may then add the event on their personal DJ page on the platform.
 
 #### D.1.f Performers & Teachers Line up
 
@@ -91,7 +91,7 @@ Similarly to DJs point, it is possible to add a Line Up of Performers, Musicians
 
 One of the features which enriches the event the most is to add the full programme, tell the social dancer all the details about your event. The programme is shown day by day with all daily activities. Activities can be anything: Registration/Check-in process; City Tours; Classes; Online activities; Workshops; Milongas; Competition; Massage sessions; and any kind of activity offered at the event.
 
-On each activity it is possibe to add:
+On each activity it is possible to add:
  - DJs (Tag them when possible)
  - Teachers (Tag them when possible)
  - Performers (Tag them when possible)
@@ -102,12 +102,12 @@ On each activity it is possibe to add:
 
 ### D.3. Request Partners for classes/workshops
 
-When the event hosts classes/workshops, very often attendants ask organisers to be partnered on a particular class. When organisers enable this option, Points of Tango gives the option to the dancers to request for a partner on a particular class/workshop. Then, per each class, organisers would match the requests and notify the dancers easily using a tool in the plafmorm. This is a useful feature as it is a tool for organisers to manage all these requests in a simple way.
+When the event hosts classes/workshops, very often attendants ask organisers to be partnered on a particular class. When organisers enable this option, Points of Tango gives the option to the dancers to request for a partner on a particular class/workshop. Then, per each class, organisers would match the requests and notify the dancers easily using a tool in the plafform. This is a useful feature as it is a tool for organisers to manage all these requests in a simple way.
 
 ### D.4. Discussions
 
 Each event has a space where users can make questions/suggestions. Each post is public and owned by the user (similar to a post on an particular Facebook event); Organisers can add admin messages (which are shown differently and triggers a notification to users involved on the conversation) and also act as moderators to have rights to remove any offensive post.
-Organisers may create different topics for users to post on the right channel depending on their needs, for instance Accommodation arragements, Taxis shares, Restaurant recommendations, etc. ***Max 3 topics per event, which can be extended under the Adds On seccion***
+Organisers may create different topics for users to post on the right channel depending on their needs, for instance Accommodation arrangements, Taxis shares, Restaurant recommendations, etc. ***Max 3 topics per event, see ADDs-ON section***
 
 ### D.5. Covid Details
 
@@ -115,13 +115,13 @@ Due to the current pandemic, different events require specific Covid conditions 
 
 ### D.6. Show Room
 
-Regularly events host Show Rooms inviting tango stores to expose their products to the attendants. From Points of Tango events it is possible to list the stores which will be having a show room at the event, therefore dancers could go through this list and access to each particular store catalogue. This brings the opportunity to the dancers to pick and collect products at the event and expose the catalogue of each store. Also, it might bring interst to a social dancer to attend the event just because a store will be present there.
+Regularly events host Show Rooms inviting tango stores to expose their products to the attendants. From Points of Tango events it is possible to list the stores which will be having a show room at the event, therefore dancers could go through this list and access to each particular store catalogue. This brings the opportunity to the dancers to pick and collect products at the event and expose the catalogue of each store. Also, it might bring interest to a social dancer to attend the event just because a store will be present there.
 
 ### D.7. Accommodations
 
-Events can run over consecutive days, this section is for organisers who offer accommodation options to social dancers to stay over nearby the event location or to describe the accomodation in details where the event is hosted.
+Events can run over consecutive days, this section is for organisers who offer accommodation options to social dancers to stay over nearby the event location or to describe the accommodation in details where the event is hosted.
 
-There is no limit of accomodations to list per event. It allows to list contact details and location for each accommodation, their facilities, list of prices and a gallery of pictures.
+There is no limit of accommodations to list per event. It allows to list contact details and location for each accommodation, its facilities, list of prices and a gallery of pictures.
 
 ### D.8. Registration / Booking process
 
@@ -132,26 +132,26 @@ There is no limit of accomodations to list per event. It allows to list contact 
 #### D.8.a Dates 
 
 - Registration Open Date: The organisers can specify the date and time when registrations/applications to the event will be available.
-- Booking Date: The organisers can specify the date and time when bookings to activities will be available.
+- Booking Date: The organisers can specify the date and time when bookings activities will be available.
 
 #### D.8.b Registration forms
 
-It is possible to add a registration/booking form when organisers need extra information, which would have to be filled in by social dancers. This form is dynamic and the organisers can add as meny questions as needed, questions have different types to simplify answers and they can be marked as mandatory and/or editables (meaning the answer can be ammended at any time).
+It is possible to add a registration/booking form when organisers need extra information, which would have to be filled in by social dancers. This form is dynamic and the organisers can add as many questions as needed, questions have different types to simplify answers and they can be marked as mandatory and/or editable (meaning the answer can be amended at any time).
 
 #### D.8.c Event Packs
 
-User can book activities separatelly, but it is possible to create bundles for dancers to book and pay for a package-price. Bundles can have as many activities as the event has included in it, but also can have activities to claim. For instance, they book 2 workshops to pick up out of 5 available. Dancer buys the pack and choses the workshops later.
+User can book activities separately, but it is possible to create bundles for dancers to book and pay for a package-price. Bundles can have as many activities as the event has included in it, but also can have activities to claim. For instance, they book 2 workshops to pick up out of 5 available. Dancer buys the pack and choses the workshops later.
 
 #### D.8.d Add Promoters / Vouchers
 
-It is usual that events have promoters on different cities or countries, specially international events. By adding promoters, it is possible to attach discount vauchers, depending on the organiser's need. The discount vauchers can be either a fix amount of money or a percentage of the total of the order.
+It is usual that events have promoters on different cities or countries, specially international events. By adding promoters, it is possible to attach discount vouchers, depending on the organiser's need. The discount vouchers can be either a fix amount of money or a percentage of the total of the order.
 
 #### D.8.e Payment Methods
 
 At the moment it is possible to set up 5 payments methods:
 - Direct Payment (default): Social Dancer indicates the platform the payment will be handled directly with the organiser (cash, exchange of service for instance). The payment order will stand as PENDING until organisers agree.
 - Bank Transfers: Organisers can add all bank account details to share with social dancers to make the deposits. *Transfers are not yet made through the platform, we are looking at different integrations and finding the best deals for organisers. It will be added in the next few months*. After the Bank Transfer method is selected, orders will stand as PENDING until organisers confirm the deposit has arrived.
-- Integration with payment gateways, the dancer would pay directly to the organisers account, therefore the event would have to set up an account on the gateway choosen before start taking payments. Options available so far are:
+- Integration with payment gateways, the dancer would pay to the organiser's account, therefore the event would have to set up an account on the gateway chosen before start taking payments. Options available so far are:
   - Stripe: Largely used in Europe and North America (no available on South America)
   - PayPal: Used across the world with just a few exceptions, like India
   - MercadoPago: Largely used in South America.
@@ -196,19 +196,20 @@ When organisers complete the full programme, every DJ, Performer, Teacher, Orche
 
 ## F. Events - WEB version
 
-Each event added on the platform will be listed on Points of Tango mobile application, but also a web page is generated dinamically following a template, a website version of the event which can be shared as an URL link. On this web version, user can go through same data they would see on the mobile app: DJs and Artist lines up; Details; Full Programme; Accommodations; Registration and Booking precesses. This allows users not necessarely to have installed the mobile application in order to interact with the platform.
+Each event added on the platform will be listed on Points of Tango mobile application, but also a web page is generated dynamically following a template, a website version of the event which can be shared as an URL link. On this web version, user can go through same data they would see on the mobile app: DJs and Artist lines up; Details; Full Programme; Accommodations; Registration and Booking precesses. This allows users not necessarily to have installed the mobile application in order to interact with the platform.
 Example of a web template is as follow:
-- International Event: Oster Tango Festival, [https://points-of-tango.web.app/events/view?eventId=14042022_O23249049](https://points-of-tango.web.app/events/view?eventId=14042022_O23249049)
-- Local Community Event: Milonga 3D [https://points-of-tango.web.app/events/view?country=GBR&region=ENG_GLN&eventId=03072021_M3A288547](https://points-of-tango.web.app/events/view?country=GBR&region=ENG_GLN&eventId=03072021_M3A288547)
+- International Event: **Oster Tango Festival**, [https://points-of-tango.web.app/events/view?eventId=14042022_O23249049](https://points-of-tango.web.app/events/view?eventId=14042022_O23249049)
+- Local Community Event: **Milonga 3D** [https://points-of-tango.web.app/events/view?country=GBR&region=ENG_GLN&eventId=03072021_M3A288547](https://points-of-tango.web.app/events/view?country=GBR&region=ENG_GLN&eventId=03072021_M3A288547)
 
-### F.1 Personalise your W)b Page Colours
+### F.1 Personalise your Web Page Colours
 
 Each event would have a different colour palette. Based on the cover / background picture, it is possible to change the colours of the headers, menu lines, body text colour, etc. This would make the webpage to look different for each event. There are some default colours, which we encourage to be adjusted.
 
 ### F.2 Personalised Domains
 
-As you could see in the wesite links above, the event code and extra values are shown on the URL (longer for local communities), this makes the link long and hard for users/dancers to remember. For this reason the platform provides the option to add domains to events; easier way to be remembered and a cleaner and more descriptive link.
-Example domain for Oster Tango: [https://points-of-tango.web.app/events/ostertango](https://points-of-tango.web.app/events/ostertango)
+As you could see in the website links above, the event code and extra values are shown on the URL (longer for local communities), this makes the link long and hard for users/dancers to remember. For this reason the platform provides the option to add domains to events; easier way to be remembered and a cleaner and more descriptive link.
+
+Example domain for **Oster Tango**: [https://points-of-tango.web.app/events/ostertango](https://points-of-tango.web.app/events/ostertango)
 
 
 ## G. UKATA Members <-> Points of Tango
@@ -225,7 +226,7 @@ Most of the features described on this document are Free of charge. Any organise
 
 ### B.1. Sponsored Events
 
-The event organic list is sorted by date. However, events can be featured at the top of the list. Similarly to Google results, atmost 2 events would be featured/sponsored at the top, followed by the 'organic' list.
+The event organic list is sorted by date. However, events can be featured at the top of the list. Similarly to Google results, there would be featured/sponsored events at the top, followed by the 'organic' list.
 Any event can be sponsored on any country and region, despite where the event is hosted. For instance, a milonga in London can be sponsored on the Paris region.
 
 ### B.2. Notifications and Email targeted marketing service
@@ -234,11 +235,11 @@ Addressed pushed notifications and emails to specific communities. Target the au
 
 ### B.3. Registration/Booking service
 
-The listing is totally Free, as mentioned above. The registration/booking process (everything under the point 8 in the previous section) engages more resourses from the platform. A fixed fee would be charged to support the organisers along the whole process, help desk assistance and IT support. Fees will depend on the size of the event and of its frequency.
+The listing is totally Free, as mentioned above. The registration/booking process (everything under the point 8 in the previous section) engages more resources from the platform. A fixed fee would be charged to support the organisers along the whole process, help desk assistance and IT support. Fees will depend on the size of the event and of its frequency.
 
 ### B.4. ADD-ON services
 
-There is a Free limit on each of the ADD-ON, which can be extended with premium accounts. Furthermore, each ADD-ON can be adquire independently, depending on the needs. Current ADD-ON free quota:
+There is a Free limit on each of the ADD-ON, which can be extended with premium accounts. Furthermore, each ADD-ON can be acquire independently, depending on the needs. Current ADD-ON free quota:
 - Keyword Phrases: max 5.
 - Organisers: max 2.
 - Promoters: max 2.
