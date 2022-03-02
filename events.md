@@ -207,7 +207,7 @@ Each event would have a different colour palette. Based on the cover / backgroun
 
 ### F.2 Personalised Domains
 
-As you could see in the website links above, the event code and extra values are shown on the URL (longer for local communities), this makes the link long and hard for users/dancers to remember. For this reason the platform provides the option to add domains to events; easier way to be remembered and a cleaner and more descriptive link.
+As you could see in the website links above, the event code and extra values are shown on the URL (longer for local communities), this makes the link long and hard for users/dancers to remember. For this reason the platform provides the option to add domains to events, create a more descriptive link.
 
 Example domain for **Oster Tango**: [https://points-of-tango.web.app/events/ostertango](https://points-of-tango.web.app/events/ostertango)
 
