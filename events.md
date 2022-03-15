@@ -1,3 +1,5 @@
+![Logo](logo.png)
+
 Points of Tango Download Links:
 - [Android](https://play.google.com/store/apps/details?id=com.pointsoftango.android)
 - [iPhone](https://apps.apple.com/us/app/points-of-tango/id1580307505#?platform=iphone)
