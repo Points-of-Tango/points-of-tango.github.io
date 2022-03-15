@@ -1,3 +1,7 @@
+Points of Tango Download Links:
+- [Android](https://play.google.com/store/apps/details?id=com.pointsoftango.android)
+- [iPhone](https://apps.apple.com/us/app/points-of-tango/id1580307505#?platform=iphone)
+
 # Events Module
 
 ## A. Audience and Scope
@@ -209,8 +213,9 @@ Each event would have a different colour palette. Based on the cover / backgroun
 
 As you could see in the website links above, the event code and extra values are shown on the URL (longer for local communities), this makes the link long and hard for users/dancers to remember. For this reason the platform provides the option to add domains to events, create a more descriptive link.
 
-Example domain for **Oster Tango**: [https://points-of-tango.web.app/events/ostertango](https://points-of-tango.web.app/events/ostertango)
-
+Example domain:
+- **Oster Tango Festival**: [https://points-of-tango.web.app/events/ostertango](https://points-of-tango.web.app/events/ostertango)
+- **Milonga 3D**: [https://points-of-tango.web.app/events/milonga3d](https://points-of-tango.web.app/events/milonga3d)
 
 ## G. UKATA Members <-> Points of Tango
 
